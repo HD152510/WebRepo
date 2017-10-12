@@ -88,7 +88,7 @@
                 <div class="carousel-caption d-none d-md-block text-right">
                     <h1>"Wish not so much to live long as to live well."</h1>
                     <p>즐거운 인생을 위한 사소하고 대담한 꿈</p>
-                    <p><a class="btn btn-lg btn-primary" href="Bucket%20List.html" role="button">Check my Bucket List</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="BucketList.jsp" role="button">Check my Bucket List</a></p>
                 </div>
             </div>
         </div>

@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WebRepo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebRepo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="gson-2.2.4" />
+          <element id="library" level="project" name="javax.annotation" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
